@@ -1,70 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screencapture-localhost-3000-products-3-2023-05-17-22_26_08](https://github.com/NoahCrown/Feastibles/assets/91674419/5c5407c2-86ee-46ac-95a7-70d5cf875983)
+![screencapture-localhost-3000-products-2023-05-17-22_25_58](https://github.com/NoahCrown/Feastibles/assets/91674419/bcd41689-824d-485f-80a5-2c281b6d5a12)
+![screencapture-localhost-3000-products-2023-05-17-22_25_58](https://github.com/NoahCrown/Feastibles/assets/91674419/ce77472b-84e9-4e0c-a25f-b279879b0889)
+![screencapture-localhost-3000-login-2023-05-17-22_24_50](https://github.com/NoahCrown/Feastibles/assets/91674419/7f9ed56e-79b1-4c17-b60f-cc47d0f07a12)
+![screencapture-localhost-3000-cart-2023-05-17-22_24_38](https://github.com/NoahCrown/Feastibles/assets/91674419/3753388f-0bb4-4910-8226-d453c1734052)
+![screencapture-localhost-3000-admin-2023-05-17-22_25_17](https://github.com/NoahCrown/Feastibles/assets/91674419/9bbc11d4-25bf-4c1c-9e6c-1008acd0d328)
+![screencapture-localhost-3000-login-2023-05-17-22_24_50](https://github.com/NoahCrown/Feastibles/assets/91674419/523d64a5-5a1b-4b5d-8b9e-ba78184532e4)
+![screencapture-localhost-3000-2023-05-17-22_23_44](https://github.com/NoahCrown/Feastibles/assets/91674419/c75f4edb-8db9-4534-a487-4d8488d87acd)
+![screencapture-localhost-3000-cart-2023-05-17-22_24_38](https://github.com/NoahCrown/Feastibles/assets/91674419/a048c142-015f-4a55-89fd-cc9bffe7a704)
+![screencapture-localhost-3000-2023-05-17-22_23_44](https://github.com/NoahCrown/Feastibles/assets/91674419/9cec4ef4-f762-40cf-b0f7-2903558bf692)
